@@ -4,7 +4,7 @@ import './index.scss';
 class TypedText extends React.Component {
 
     state = {
-        text: 'front engineer',
+        text: 'Frontend engineer',
 
     }
 

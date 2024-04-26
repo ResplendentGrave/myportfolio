@@ -10,7 +10,7 @@ const Menu = () => {
                 name={"person"}
                 link="/#about"
             >
-                About
+                about
             </Menu.Item>
            
             <Menu.Item
@@ -23,7 +23,7 @@ const Menu = () => {
                 name={'at'}
                 link="/contact#contact"
             >
-                Contact
+                contact
             </Menu.Item>
         </ul>
     );

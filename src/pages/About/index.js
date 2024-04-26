@@ -10,30 +10,39 @@ const About = () => {
             </Title>
             <div className="row">
                 <div className="column">
-                    <strong>
-                        Hi, I am Emre Baskan
+                    {/* <strong>
+                        岩手大学大学院の胡 广昕(コ コウキン)と申します。
                     </strong>
                     <p>
-                        Self-taught, self-driven, passionate learner and developer focusing on Angular, React, Vue, Node, and Java Technologies. Looking forward to working with ingenious teams on challenging projects.
-                        <br/> <br/>
-                        I’m an easy going person that works well with everyone. I enjoy being around different types of people and I like to always challenge myself to improve at everything I do.
-                        <br/><br/>
-                        I have a great passion for learning languages and exploring the world and also programming. I have always loved technology and programming. And this is my profession now.
+                       
+                    <br/>
+                       デザイン・メディアメジャーなので、3Dグラフィック分野では幅広い知識を持っています。現在の研究テーマは三次元点群アルゴリズムで、普段はC++とpythonを使って研究を行っています。
+                       普段は趣味でWebアプリケーションを制作している、大学時代にWeb関連の分野に触れ、様々なWebページを制作することに面白さを感じていました。
+                       ブロックを積み上げるようにページを作っていくと達成感があるので、日本でフロントエンドエンジニアとして働きたいと思っています。
+                       
 
-                    </p>
-                </div>
-            </div>
-            <Title>
-                My philosophy of programming
-            </Title>
-            <div className="row">
-                <div className="column">
-
+                    </p> */}
+                    <strong>
+                        Hi, I am HU GUANGXIN!
+                    </strong>
                     <p>
-                        I have a deep understanding of how JavaScript works. I strongly believe that having a solid understanding of core technologies allows developers to master at any frameworks.
+                       
+                    <br/>
+                    Currently enrolled in a Master's program at Iwate University, with a personal focus on 3D algorithms and point clouds.
+                    I have been studying the web field since university and have been involved in the development of web applications.
+                    <br/>
+                    <br/>
+                    Mainly use React for front-end development on a daily basis, with a deep understanding of Javascript and familiarity with team development.
+                    Personally, I like to learn and use the latest technologies as the web front-end field is ever-changing and am looking for challenging projects.
+                       
+
                     </p>
                 </div>
             </div>
+            {/* <Title>
+                My philosophy of programming
+            </Title> */}
+           
             <Title>
                 Highlights of Qualifications
             </Title>
@@ -41,10 +50,7 @@ const About = () => {
                 <div className="column">
                     <ul>
                         <li>
-                            Sound knowledge of MVC frameworks
-                        </li>
-                        <li>
-                            Deep understanding of JavaScriptOOP & FP
+                            Deep understanding of JavaScript
                         </li>
                         <li>
                             Hungry and eager to learn
@@ -55,9 +61,7 @@ const About = () => {
                         <li>
                             Follow emerge technologies
                         </li>
-                        <li>
-                            Excellent coding and code review experience. Clear structure,standardized naming, strong logic, low code redundancy
-                        </li>
+                        
                     </ul>
                 </div>
             </div>

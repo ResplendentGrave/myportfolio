@@ -6,7 +6,7 @@ import Info from "../Info";
 import Skills from "../Skills";
 import {ThemeContext} from "../../context/ThemeContext";
 import {useAnimation} from "../../use/animation";
-import me from '../../assets/PHOTO.jpg';
+import me from '../../assets/PHOTO.JPG';
 import cv from '../../assets/HU_resume_0412.pdf'
 
 const Profile = () => {
