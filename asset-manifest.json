@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "./static/css/main.6a9f60f2.chunk.css",
-    "main.js": "./static/js/main.cfa23656.chunk.js",
-    "main.js.map": "./static/js/main.cfa23656.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.3d0af8e1.js",
-    "runtime-main.js.map": "./static/js/runtime-main.3d0af8e1.js.map",
+    "main.js": "./static/js/main.8389d9c3.chunk.js",
+    "main.js.map": "./static/js/main.8389d9c3.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.b73d1f10.js",
+    "runtime-main.js.map": "./static/js/runtime-main.b73d1f10.js.map",
     "static/css/2.8095601a.chunk.css": "./static/css/2.8095601a.chunk.css",
-    "static/js/2.b454d054.chunk.js": "./static/js/2.b454d054.chunk.js",
-    "static/js/2.b454d054.chunk.js.map": "./static/js/2.b454d054.chunk.js.map",
-    "static/js/3.574e283a.chunk.js": "./static/js/3.574e283a.chunk.js",
-    "static/js/3.574e283a.chunk.js.map": "./static/js/3.574e283a.chunk.js.map",
+    "static/js/2.1007e994.chunk.js": "./static/js/2.1007e994.chunk.js",
+    "static/js/2.1007e994.chunk.js.map": "./static/js/2.1007e994.chunk.js.map",
+    "static/js/3.19d73188.chunk.js": "./static/js/3.19d73188.chunk.js",
+    "static/js/3.19d73188.chunk.js.map": "./static/js/3.19d73188.chunk.js.map",
     "index.html": "./index.html",
     "static/css/2.8095601a.chunk.css.map": "./static/css/2.8095601a.chunk.css.map",
     "static/css/main.6a9f60f2.chunk.css.map": "./static/css/main.6a9f60f2.chunk.css.map",
-    "static/js/2.b454d054.chunk.js.LICENSE.txt": "./static/js/2.b454d054.chunk.js.LICENSE.txt",
+    "static/js/2.1007e994.chunk.js.LICENSE.txt": "./static/js/2.1007e994.chunk.js.LICENSE.txt",
     "static/media/HU_resume_0412.aa120709.pdf": "./static/media/HU_resume_0412.aa120709.pdf",
-    "static/media/PHOTO.f4930a21.JPG": "./static/media/PHOTO.f4930a21.JPG",
+    "static/media/PHOTO.f4930a21.jpg": "./static/media/PHOTO.f4930a21.jpg",
     "static/media/angular.367d4f3d.png": "./static/media/angular.367d4f3d.png",
     "static/media/index.scss": "./static/media/ionicons.e9f4c425.ttf",
     "static/media/js.e35fa00e.png": "./static/media/js.e35fa00e.png",
@@ -26,10 +26,10 @@
     "static/media/vue.17c4554a.jpeg": "./static/media/vue.17c4554a.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3d0af8e1.js",
+    "static/js/runtime-main.b73d1f10.js",
     "static/css/2.8095601a.chunk.css",
-    "static/js/2.b454d054.chunk.js",
+    "static/js/2.1007e994.chunk.js",
     "static/css/main.6a9f60f2.chunk.css",
-    "static/js/main.cfa23656.chunk.js"
+    "static/js/main.8389d9c3.chunk.js"
   ]
 }
